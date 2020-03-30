@@ -1,2 +1,2 @@
 # Test made changes to the file
-[![Hits-of-Code](https://hitsofcode.com/https://github.com/adrenalinovaya/Test/)](https://hitsofcode.com/view/https://github.com/adrenalinovaya/Test)
+[![Hits-of-Code](https://hitsofcode.com/github/adrenalinovaya/Test)](https://hitsofcode.com/view/github/adrenalinovaya/Test)
